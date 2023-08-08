@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.priyanka-t96:scanlibrary:5.x.x'
+	implementation 'com.github.priyanka-t96:scanlibrary:3.3'
 }
