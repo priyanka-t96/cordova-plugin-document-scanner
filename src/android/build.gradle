@@ -8,6 +8,5 @@ allprojects {
 
 
 	dependencies {
-	        implementation 'com.github.priyanka-t96:scanlibrary'
+	        implementation 'com.github.priyanka-t96:cordova-plugin-document-scanner:master-SNAPSHOT'
 	}
-	
